@@ -1,0 +1,172 @@
+{C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/FFT_16X16.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/FFT_16X16.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity FFT_16X16
+-- Compiling architecture RTL of FFT_16X16
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uIR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uIR.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity REG_uIR
+-- Compiling architecture BEHAVIOR of REG_uIR
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_3_TO_1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_3_TO_1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MUX_3_TO_1
+-- Compiling architecture BEHAVIOR of MUX_3_TO_1
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity REG
+-- Compiling architecture BEHAVIOR of REG
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/DATAPATH.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/DATAPATH.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DATAPATH
+-- Compiling architecture RTL of DATAPATH
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_IR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_IR.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX_2_TO_1_IR
+-- Compiling architecture BEHAVIOR of MUX_2_TO_1_IR
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ADDER_SUBTRACTOR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ADDER_SUBTRACTOR.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ADDER_SUBTRACTOR
+-- Compiling architecture BEHAVIOR of ADDER_SUBTRACTOR
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/tb/testbench_fft_16X16.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/tb/testbench_fft_16X16.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity TESTBENCH_FFT_16X16
+-- Compiling architecture BEHAVIOR of TESTBENCH_FFT_16X16
+** Warning: C:/Users/Luca Fumarola/Desktop/FFT_16X16/tb/testbench_fft_16X16.vhd(169): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+** Warning: C:/Users/Luca Fumarola/Desktop/FFT_16X16/tb/testbench_fft_16X16.vhd(352): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/SWAP.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/SWAP.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity SWAP
+-- Compiling architecture BEHAVIOR of SWAP
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uAR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uAR.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity REG_uAR
+-- Compiling architecture BEHAVIOR of REG_uAR
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MUX_2_TO_1
+-- Compiling architecture BEHAVIOR of MUX_2_TO_1
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/tb/testbench_butterfly_core.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:\Users\Luca Fumarola\Desktop\FFT_16X16\tb\testbench_butterfly_core.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity TESTBENCH_BUTTERFLY_CORE
+-- Compiling architecture BEHAVIOR of TESTBENCH_BUTTERFLY_CORE
+** Warning: C:\Users\Luca Fumarola\Desktop\FFT_16X16\tb\testbench_butterfly_core.vhd(79): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+** Warning: C:\Users\Luca Fumarola\Desktop\FFT_16X16\tb\testbench_butterfly_core.vhd(129): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_4_TO_1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_4_TO_1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MUX_4_TO_1
+-- Compiling architecture BEHAVIOR of MUX_4_TO_1
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MULTIPLIER.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MULTIPLIER.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MULTIPLIER
+-- Compiling architecture BEHAVIOR of MULTIPLIER
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ROUND_TO_NEAREST_EVEN.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ROUND_TO_NEAREST_EVEN.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ROUND_TO_NEAREST_EVEN
+-- Compiling architecture BEHAVIOR of ROUND_TO_NEAREST_EVEN
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/BUTTERFLY_CORE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/BUTTERFLY_CORE.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity BUTTERFLY_CORE
+-- Compiling architecture RTL of BUTTERFLY_CORE
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/LATE_STATUS.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/LATE_STATUS.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity LATE_STATUS
+-- Compiling architecture BEHAVIOUR of LATE_STATUS
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_1_BIT.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_1_BIT.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX_2_TO_1_1_BIT
+-- Compiling architecture BEHAVIOR of MUX_2_TO_1_1_BIT
+
+} {} {}} {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/uROM.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/uROM.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity uROM
+-- Compiling architecture BEHAVIOUR of uROM
+
+} {} {}}

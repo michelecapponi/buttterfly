@@ -1,0 +1,820 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+Eadder_subtractor
+Z0 w1609408871
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 77
+Z4 dC:/Users/Luca Fumarola/Desktop/FFT_16X16/sim
+Z5 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ADDER_SUBTRACTOR.vhd
+Z6 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ADDER_SUBTRACTOR.vhd
+l0
+L5 1
+VRJFJYR2Gk5j4^KMfNZH7R3
+!s100 Nc9l5gnAFI4oMTAAS0e`I2
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1610648504
+!i10b 1
+Z9 !s108 1610648504.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ADDER_SUBTRACTOR.vhd|
+Z11 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ADDER_SUBTRACTOR.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavior
+R1
+R2
+R3
+DEx4 work 16 adder_subtractor 0 22 RJFJYR2Gk5j4^KMfNZH7R3
+!i122 77
+l22
+L17 33
+VnPQzJKdXoO124fcak>5W32
+!s100 Gfk`WOAA^1hcNd=H=HbYd1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ebutterfly_core
+Z14 w1610648464
+R1
+R2
+R3
+!i122 78
+R4
+Z15 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/BUTTERFLY_CORE.vhd
+Z16 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/BUTTERFLY_CORE.vhd
+l0
+L5 1
+Va:[EAJhbY0CHj8_M0o[Hh3
+!s100 X_CR`1IJB4_Kej:KlLgfa1
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/BUTTERFLY_CORE.vhd|
+Z18 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/BUTTERFLY_CORE.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 14 butterfly_core 0 22 a:[EAJhbY0CHj8_M0o[Hh3
+!i122 78
+l72
+L25 61
+VZ3iYO`70c8mo_WABL>Tjo0
+!s100 Sh7VDEibQdR`2@L_h_;PX1
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Edatapath
+Z19 w1610648465
+R1
+R2
+R3
+!i122 79
+R4
+Z20 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/DATAPATH.vhd
+Z21 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/DATAPATH.vhd
+l0
+L5 1
+Vj7Z;bdhU:zfXKIMn?A@YI1
+!s100 A?YF?n0XT?;Q6YhA6^:RI0
+R7
+32
+Z22 !s110 1610648505
+!i10b 1
+Z23 !s108 1610648505.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/DATAPATH.vhd|
+Z25 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/DATAPATH.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 8 datapath 0 22 j7Z;bdhU:zfXKIMn?A@YI1
+!i122 79
+l124
+L38 125
+Vf=P9YfnO]6o<n;4Fkg1hV2
+!s100 3`QMQdj9QJVgOR[Q7OJEc2
+R7
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R12
+R13
+Efft_16x16
+Z26 w1610799619
+R1
+R2
+R3
+!i122 115
+R4
+Z27 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/FFT_16X16.vhd
+Z28 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/FFT_16X16.vhd
+l0
+L5 1
+VKM?Rma6iMmZ0bYmeGG:^k0
+!s100 DZ^X@WiE@EADnMRdJE@NO0
+R7
+32
+Z29 !s110 1610808601
+!i10b 1
+Z30 !s108 1610808601.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/FFT_16X16.vhd|
+Z32 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/FFT_16X16.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 9 fft_16x16 0 22 KM?Rma6iMmZ0bYmeGG:^k0
+!i122 115
+l132
+L79 246
+VNe;6MmmM;1WERESRV_=;m3
+!s100 jO]Ro?O16U?`<4VP?Ki_21
+R7
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R12
+R13
+Elate_status
+Z33 w1610648462
+R2
+R3
+!i122 80
+R4
+Z34 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/LATE_STATUS.vhd
+Z35 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/LATE_STATUS.vhd
+l0
+L4 1
+VR4^1ezF3]M<V9E_5QMII00
+!s100 Ob:=2ie7@co`zO[LXAgZW1
+R7
+32
+R22
+!i10b 1
+R23
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/LATE_STATUS.vhd|
+Z37 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/LATE_STATUS.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 11 late_status 0 22 R4^1ezF3]M<V9E_5QMII00
+!i122 80
+l61
+L13 84
+V@BnVzEWIikOHM<BUNhJVZ1
+!s100 HC30[2IYaBf_IIn4STEXA3
+R7
+32
+R22
+!i10b 1
+R23
+R36
+R37
+!i113 1
+R12
+R13
+Emultiplier
+Z38 w1609861085
+R1
+R2
+R3
+!i122 81
+R4
+Z39 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MULTIPLIER.vhd
+Z40 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MULTIPLIER.vhd
+l0
+L5 1
+Vfi=AVl;D]6RaKLAMi557E1
+!s100 VcOQ3nNhi>[lM^T0T9SGf1
+R7
+32
+R22
+!i10b 1
+R23
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MULTIPLIER.vhd|
+Z42 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MULTIPLIER.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 multiplier 0 22 fi=AVl;D]6RaKLAMi557E1
+!i122 81
+l22
+L17 34
+VgVkXOaWGX:S7EYe3AnC701
+!s100 XTlObMEdHVz[3JV5nDF201
+R7
+32
+R22
+!i10b 1
+R23
+R41
+R42
+!i113 1
+R12
+R13
+Emux_2_to_1
+Z43 w1609411745
+R1
+R2
+R3
+!i122 82
+R4
+Z44 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1.vhd
+Z45 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1.vhd
+l0
+L5 1
+VfIQMlE0UXJ20CWeAU@6fZ2
+!s100 C0_PCU<U?X8MemV;;_Fbz2
+R7
+32
+R22
+!i10b 1
+R23
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1.vhd|
+Z47 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 mux_2_to_1 0 22 fIQMlE0UXJ20CWeAU@6fZ2
+!i122 82
+l17
+L15 18
+V7XWZM0Bn<g[n1IJYekQ4f1
+!s100 2e[2o7?d`fh@KGfZFWl8>0
+R7
+32
+R22
+!i10b 1
+R23
+R46
+R47
+!i113 1
+R12
+R13
+Emux_2_to_1_1_bit
+Z48 w1610535640
+R2
+R3
+!i122 83
+R4
+Z49 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_1_BIT.vhd
+Z50 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_1_BIT.vhd
+l0
+L4 1
+VfOO5L^6>IdjE>Z=7;I1AR2
+!s100 _6[NA3CVVj;j?7gzk1b^X3
+R7
+32
+R22
+!i10b 1
+R23
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_1_BIT.vhd|
+Z52 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_1_BIT.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 16 mux_2_to_1_1_bit 0 22 fOO5L^6>IdjE>Z=7;I1AR2
+!i122 83
+l15
+L13 18
+VRJZ=FRI`YUfjjKVW7gW8k1
+!s100 CKS6LKRmO7?W=i5o?PSXW0
+R7
+32
+R22
+!i10b 1
+R23
+R51
+R52
+!i113 1
+R12
+R13
+Emux_2_to_1_ir
+Z53 w1610537724
+R2
+R3
+!i122 84
+R4
+Z54 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_IR.vhd
+Z55 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_IR.vhd
+l0
+L4 1
+VDE5KC:Mcj;TM?QkzFf8AG0
+!s100 0]clWTY1a<EKV9QHe0`nW1
+R7
+32
+R22
+!i10b 1
+R23
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_IR.vhd|
+Z57 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_2_TO_1_IR.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 13 mux_2_to_1_ir 0 22 DE5KC:Mcj;TM?QkzFf8AG0
+!i122 84
+l16
+L14 17
+VV>bH6T5<C24dOlSMa7_H33
+!s100 J1cAW_;HgICST030b;SXW1
+R7
+32
+R22
+!i10b 1
+R23
+R56
+R57
+!i113 1
+R12
+R13
+Emux_3_to_1
+Z58 w1609411747
+R1
+R2
+R3
+!i122 85
+R4
+Z59 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_3_TO_1.vhd
+Z60 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_3_TO_1.vhd
+l0
+L5 1
+VejN`S@47XUAFkNQP^[n?J0
+!s100 llEA?Cz2GFaiB_Kn5fjgP1
+R7
+32
+Z61 !s110 1610648506
+!i10b 1
+Z62 !s108 1610648506.000000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_3_TO_1.vhd|
+Z64 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_3_TO_1.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 mux_3_to_1 0 22 ejN`S@47XUAFkNQP^[n?J0
+!i122 85
+l18
+L16 20
+V@ng7^E]<cdnb^59PH>>lG2
+!s100 Z8gH>UnNKY]_kDc5cY_hZ0
+R7
+32
+R61
+!i10b 1
+R62
+R63
+R64
+!i113 1
+R12
+R13
+Emux_4_to_1
+Z65 w1609411945
+R1
+R2
+R3
+!i122 86
+R4
+Z66 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_4_TO_1.vhd
+Z67 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_4_TO_1.vhd
+l0
+L5 1
+VBCmjE2C?_RIaI7fPO4S5g0
+!s100 81aG_LaDhoN7QDMe4>ngU1
+R7
+32
+R61
+!i10b 1
+R62
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_4_TO_1.vhd|
+Z69 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/MUX_4_TO_1.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 mux_4_to_1 0 22 BCmjE2C?_RIaI7fPO4S5g0
+!i122 86
+l19
+L17 22
+V29KR_j?lQfVLZC`]Kfkcn2
+!s100 29=NF4IC1fT^Q3JBi^Fh83
+R7
+32
+R61
+!i10b 1
+R62
+R68
+R69
+!i113 1
+R12
+R13
+Ereg
+Z70 w1609772173
+R1
+R2
+R3
+!i122 87
+R4
+Z71 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG.vhd
+Z72 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG.vhd
+l0
+L5 1
+V01SH=JNkkU?Mg0Eb]OX;50
+!s100 OHYM^d6D;b4C?g<eo>g630
+R7
+32
+R61
+!i10b 1
+R62
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG.vhd|
+Z74 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 3 reg 0 22 01SH=JNkkU?Mg0Eb]OX;50
+!i122 87
+l16
+Z75 L14 16
+Vdba4PbjUJd;@[EVHNAfFh0
+!s100 NnQBl2LN9L71a]^Cj]<R;1
+R7
+32
+R61
+!i10b 1
+R62
+R73
+R74
+!i113 1
+R12
+R13
+Ereg_uar
+Z76 w1610535737
+R2
+R3
+!i122 88
+R4
+Z77 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uAR.vhd
+Z78 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uAR.vhd
+l0
+L4 1
+VlCITC2;9HDSHlH`Y=jzFl0
+!s100 mN25_Y8B5zdD:<:i@YQTf0
+R7
+32
+R61
+!i10b 1
+R62
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uAR.vhd|
+Z80 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uAR.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 7 reg_uar 0 22 lCITC2;9HDSHlH`Y=jzFl0
+!i122 88
+l14
+Z81 L12 16
+V23_Qk7kMETGF]3e>V_^CB1
+!s100 i2o10GK;QC0R?4=0195dO2
+R7
+32
+R61
+!i10b 1
+R62
+R79
+R80
+!i113 1
+R12
+R13
+Ereg_uir
+Z82 w1610648463
+R2
+R3
+!i122 89
+R4
+Z83 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uIR.vhd
+Z84 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uIR.vhd
+l0
+L4 1
+V;ohkgaQ;521=i_<_S]0<J0
+!s100 :PSJ]f0g`3;zig2[AfUci3
+R7
+32
+R61
+!i10b 1
+R62
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uIR.vhd|
+Z86 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/REG_uIR.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 7 reg_uir 0 22 ;ohkgaQ;521=i_<_S]0<J0
+!i122 89
+l14
+R81
+V]g91defgUJQ<o>WTD3`km3
+!s100 Ho42@JN6Z20HLcA2=755;3
+R7
+32
+R61
+!i10b 1
+R62
+R85
+R86
+!i113 1
+R12
+R13
+Eround_to_nearest_even
+Z87 w1610889689
+R1
+R2
+R3
+!i122 119
+R4
+Z88 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ROUND_TO_NEAREST_EVEN.vhd
+Z89 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ROUND_TO_NEAREST_EVEN.vhd
+l0
+L5 1
+VdeKc992X;BFZ8RXUe09d01
+!s100 alFG7;5hH1PjVYZeXmW>N3
+R7
+32
+Z90 !s110 1610889892
+!i10b 1
+Z91 !s108 1610889891.000000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ROUND_TO_NEAREST_EVEN.vhd|
+Z93 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/ROUND_TO_NEAREST_EVEN.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+Z94 DEx4 work 21 round_to_nearest_even 0 22 deKc992X;BFZ8RXUe09d01
+!i122 119
+l23
+L16 83
+V6[gze]9<7kPCOVggl:lKI1
+!s100 RE];SoLZIi:7h9Dgb65LB0
+R7
+32
+R90
+!i10b 1
+R91
+R92
+R93
+!i113 1
+R12
+R13
+Eswap
+Z95 w1609424610
+R1
+R2
+R3
+!i122 91
+R4
+Z96 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/SWAP.vhd
+Z97 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/SWAP.vhd
+l0
+L5 1
+VL_ZmF;WX9PADhZKnkmdbh3
+!s100 bTC8jOj;BH<b5gLY50ndz1
+R7
+32
+Z98 !s110 1610648507
+!i10b 1
+Z99 !s108 1610648507.000000
+Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/SWAP.vhd|
+Z101 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/SWAP.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 4 swap 0 22 L_ZmF;WX9PADhZKnkmdbh3
+!i122 91
+l16
+R75
+V>3lJlkGG^zWzE^T>RSb2=3
+!s100 djCjm7RVoP5:fLd;:SAS93
+R7
+32
+R98
+!i10b 1
+R99
+R100
+R101
+!i113 1
+R12
+R13
+Etestbench_butterfly_core
+Z102 w1610806024
+Z103 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+R1
+R2
+R3
+!i122 114
+R4
+Z104 8C:\Users\Luca Fumarola\Desktop\FFT_16X16\tb\testbench_butterfly_core.vhd
+Z105 FC:\Users\Luca Fumarola\Desktop\FFT_16X16\tb\testbench_butterfly_core.vhd
+l0
+L7 1
+VoheNMYDk0HCQ5SfWXUC=72
+!s100 i7>YNN6?e4AWB0Az95JRG1
+R7
+32
+Z106 !s110 1610806033
+!i10b 1
+Z107 !s108 1610806033.000000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Luca Fumarola\Desktop\FFT_16X16\tb\testbench_butterfly_core.vhd|
+Z109 !s107 C:\Users\Luca Fumarola\Desktop\FFT_16X16\tb\testbench_butterfly_core.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R103
+R1
+R2
+R3
+DEx4 work 24 testbench_butterfly_core 0 22 oheNMYDk0HCQ5SfWXUC=72
+!i122 114
+l37
+L10 153
+VDRTh:CJWhU]lC7K<A@;l;3
+!s100 [9iHEXl@aQcOWNXZ_<LMM3
+R7
+32
+R106
+!i10b 1
+R107
+R108
+R109
+!i113 1
+R12
+R13
+Etestbench_fft_16x16
+Z110 w1610871845
+R103
+R1
+R2
+R3
+!i122 118
+R4
+Z111 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/tb/testbench_fft_16X16.vhd
+Z112 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/tb/testbench_fft_16X16.vhd
+l0
+L7 1
+VQJ^iJLK0VnzIk5hIVH:d]1
+!s100 @lg6^i?WK@]^W8C>RCPOT0
+R7
+32
+Z113 !s110 1610871860
+!i10b 1
+Z114 !s108 1610871860.000000
+Z115 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/tb/testbench_fft_16X16.vhd|
+Z116 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/tb/testbench_fft_16X16.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R103
+R1
+R2
+R3
+DEx4 work 19 testbench_fft_16x16 0 22 QJ^iJLK0VnzIk5hIVH:d]1
+!i122 118
+l101
+L10 495
+VXRKbci^UTKLgf6g<[8S@O3
+!s100 BaPnD:EnF<D9obgDKjR<_0
+R7
+32
+R113
+!i10b 1
+R114
+R115
+R116
+!i113 1
+R12
+R13
+Eurom
+Z117 w1610789903
+R2
+R3
+!i122 108
+R4
+Z118 8C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/uROM.vhd
+Z119 FC:/Users/Luca Fumarola/Desktop/FFT_16X16/src/uROM.vhd
+l0
+L4 1
+V>5fJL_V;CZiikI;BMXIEH3
+!s100 WX6X]mW4o=dYoM@:>IHn83
+R7
+32
+Z120 !s110 1610789913
+!i10b 1
+Z121 !s108 1610789912.000000
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/uROM.vhd|
+Z123 !s107 C:/Users/Luca Fumarola/Desktop/FFT_16X16/src/uROM.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 4 urom 0 22 >5fJL_V;CZiikI;BMXIEH3
+!i122 108
+l13
+L11 24
+V^==m0YM6oo6L1dk@lS5971
+!s100 T:GgG]_bOzkJ?]:OCW>=43
+R7
+32
+R120
+!i10b 1
+R121
+R122
+R123
+!i113 1
+R12
+R13

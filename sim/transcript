@@ -1,0 +1,28 @@
+vsim -gui work.testbench_butterfly_core
+# vsim -gui work.testbench_butterfly_core 
+# Start time: 14:34:12 on Jan 17,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.testbench_butterfly_core(behavior)
+# Loading work.butterfly_core(rtl)
+# Loading work.datapath(rtl)
+# Loading work.mux_4_to_1(behavior)
+# Loading work.mux_2_to_1(behavior)
+# Loading work.mux_3_to_1(behavior)
+# Loading work.reg(behavior)
+# Loading work.multiplier(behavior)
+# Loading work.swap(behavior)
+# Loading work.adder_subtractor(behavior)
+# Loading work.round_to_nearest_even(behavior)
+# Loading work.late_status(behaviour)
+# Loading work.reg_uar(behavior)
+# Loading work.urom(behaviour)
+# Loading work.mux_2_to_1_ir(behavior)
+# Loading work.reg_uir(behavior)
+# Loading work.mux_2_to_1_1_bit(behavior)
+run 200 us
+# End time: 14:42:18 on Jan 17,2021, Elapsed time: 0:08:06
+# Errors: 0, Warnings: 1
